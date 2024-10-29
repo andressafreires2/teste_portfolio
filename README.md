@@ -36,3 +36,7 @@ Futuras iterações deste projeto podem incluir a exploração de outros algorit
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+MIT.
